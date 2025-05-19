@@ -1,4 +1,4 @@
-# cs50-final-project
+## cs50-final-project
 This is my final project for CS50 online course.
 
 # Inspirational Quote Generator
