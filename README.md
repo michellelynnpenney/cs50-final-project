@@ -2,7 +2,9 @@
 This is my final project for CS50 online course.
 
 # Inspirational Quote Generator
-#### Video Demo:  <URL HERE>
+#### Video Demo
+[Watch submission video](https://youtu.be/jAODOdZIjYQ)
+
 #### Description:
 This project is a full-stack web application that allows users to:
 
